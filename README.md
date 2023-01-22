@@ -3,7 +3,7 @@
 Here is one of my free model
 
 where I'll teach you how to make a SwiftUI code onto your project
-if you guys want to follow along it will be on my you to be a channel
+if you guys want to follow along it will be on my youtube a channel
 
 Figma design of the app
 ![Logo](https://iili.io/HldNRZ7.png)
