@@ -8,7 +8,7 @@ if you guys want to follow along it will be on my youtube a channel
 Figma design of the app
 ![Logo](https://iili.io/HldNRZ7.png)
 
-Figma link view https://drive.google.com/drive/u/0/my-drive
+Figma link view https://www.figma.com/file/hgTacabnkZoLuddGYULG7U/Simple?node-id=0%3A1&t=98Len9ss7UJG8EUZ-1
 
 ## What the app will look like
 
